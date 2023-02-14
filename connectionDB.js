@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const url = `mongodb+srv://admin:admin@webdevasign1.3drfg9f.mongodb.net/?retryWrites=true&w=majority`;
+const url = `Removed for Security Reasons`;
 
 mongoose.set("strictQuery", false);
 mongoose
