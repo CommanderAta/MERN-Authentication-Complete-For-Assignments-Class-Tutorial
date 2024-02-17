@@ -1,3 +1,5 @@
+MERN Auth Example to use in class
+
 The /signUp registers you in the database
 the /login prvovides a access token and a refresher token
 the / sends only your data by looking at the access token 
