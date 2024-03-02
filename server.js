@@ -3,6 +3,7 @@ const dotenv =  require("dotenv")
 const app = express();
 const bodyParser = require("body-parser");
 const userRoute=require('./routes/User')
+const DoctorRoute=require('./routes/Doctor')
 require('./connectionDB')
 
 app.use(bodyParser.urlencoded({ extended: false }));
