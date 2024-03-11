@@ -9,7 +9,7 @@ const patientSchema = new mongoose.Schema({
     type: Number,
   },
   medicalHistory: {
-    // This could be a complex nested object or a reference to another model
+    type: String
   },
   // Other relevant fields...
 });
